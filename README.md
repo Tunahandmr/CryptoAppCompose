@@ -20,9 +20,19 @@ Technologies I use while developing
 </h3>
  
 <h2 align="center">
-Screen
+Screens
 </h2>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5dcba337-f2fd-4dae-bcef-8b8b5ca71f57" alt="crypto_app" style="width:30%; max-width:600px;">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Loading</strong><br>
+ <img src="https://github.com/user-attachments/assets/48f502c5-c710-42f7-bf36-2436ced15714" alt="crypto_app"  width="300"">    </td>
+    <td align="center">
+      <strong>Success</strong><br>
+ <img src="https://github.com/user-attachments/assets/5dcba337-f2fd-4dae-bcef-8b8b5ca71f57" alt="crypto_app"  width="300"">    </td>
+    <td align="center">
+      <strong>Error</strong><br>
+ <img src="https://github.com/user-attachments/assets/6660b3ae-d97f-42e5-acc4-077eac7c3b9c" alt="crypto_app"  width="300"">    </td>
+  </tr>
+</table>

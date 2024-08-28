@@ -1,12 +1,12 @@
 package com.tunahan.cryptojetpack.domain.usecase
 
-import coil.network.HttpException
 import com.tunahan.cryptojetpack.data.remote.dto.toCrypto
 import com.tunahan.cryptojetpack.domain.model.Crypto
 import com.tunahan.cryptojetpack.domain.repository.CryptoRepository
 import com.tunahan.cryptojetpack.util.Resource
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
+import retrofit2.HttpException
 import java.io.IOException
 import javax.inject.Inject
 

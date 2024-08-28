@@ -27,12 +27,12 @@ Screens
   <tr>
     <td align="center">
       <strong>Loading</strong><br>
- <img src="https://github.com/user-attachments/assets/48f502c5-c710-42f7-bf36-2436ced15714" alt="crypto_app"  style="width:70%; max-width:600px;"">    </td>
+ <img src="https://github.com/user-attachments/assets/48f502c5-c710-42f7-bf36-2436ced15714" alt="crypto_app"  style="width:90%; max-width:600px;"">    </td>
     <td align="center">
       <strong>Success</strong><br>
- <img src="https://github.com/user-attachments/assets/5dcba337-f2fd-4dae-bcef-8b8b5ca71f57" alt="crypto_app"  style="width:70%; max-width:600px;">    </td>
+ <img src="https://github.com/user-attachments/assets/5dcba337-f2fd-4dae-bcef-8b8b5ca71f57" alt="crypto_app"  style="width:90%; max-width:600px;">    </td>
     <td align="center">
       <strong>Error</strong><br>
- <img src="https://github.com/user-attachments/assets/6660b3ae-d97f-42e5-acc4-077eac7c3b9c" alt="crypto_app"  style="width:70%; max-width:600px;">    </td>
+ <img src="https://github.com/user-attachments/assets/15ee353e-611a-49dc-adc3-07eb0cd74f0c" alt="crypto_app"  style="width:90%; max-width:600px;">    </td>
   </tr>
 </table>
